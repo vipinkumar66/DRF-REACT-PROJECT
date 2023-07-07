@@ -2,3 +2,5 @@ config.ini
 db.sqlite3
 **__pycache__
 venv
+htmlcov
+tests.py
